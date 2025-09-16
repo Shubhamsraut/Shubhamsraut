@@ -22,9 +22,7 @@ I'm a passionate Analytics professional specializing in building robust data pip
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Shell-121011?logo=gnu-bash&logoColor=white"/>
 </p>
 
 ---
