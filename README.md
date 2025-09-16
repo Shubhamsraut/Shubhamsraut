@@ -6,15 +6,24 @@
 
 ### 💡 About Me
 
-I'm a passionate Analytics professional specializing in building robust data pipelines and extracting meaningful insights. Always eager to explore new technologies and solve challenging problems.
+Business/Data Analyst who turns messy data into decisions. I design KPIs, build self‑serve dashboards, and drive insights with SQL, Python, and clear storytelling. I care about impact, not just charts.
 
 ---
 
-### 🧰 Services
+### 🧰 Analytics Toolkit
 
 <p>
-  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?logo=googlecloud&logoColor=white"/>
-</p> 
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?logo=Power%20BI&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?logo=Tableau&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Looker-4285F4?logo=looker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google%20Sheets-34A853?logo=google-sheets&logoColor=white"/>
+  <img src="https://img.shields.io/badge/BigQuery-4285F4?logo=google-bigquery&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Snowflake-29B5E8?logo=snowflake&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white"/>
+</p>
 
 ---
 
@@ -27,13 +36,22 @@ I'm a passionate Analytics professional specializing in building robust data pip
 
 ---
 
-### 🗄️ Databases
+### 🧭 What I Do
 
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Snowflake-29B5E8?logo=snowflake&logoColor=white"/>
-</p>
+* 📊 KPI design & business performance tracking
+* 🧹 Data wrangling, modeling, and documentation
+* 📈 Dashboarding & self‑serve analytics (Power BI/Tableau/Looker)
+* 🧪 Experimentation: A/B test design, lift analysis, and readouts
+* 🔮 Forecasting & cohorts: time series, retention, segmentation
+* 🤝 Stakeholder storytelling: clear narratives, executive reports
+
+---
+
+### 📈 Auto‑generated Tech & Repo Metrics
+
+> Updates automatically from my public repositories (languages, topics, activity, etc.).
+
+![Metrics](./github-metrics.svg)
 
 ---
 
@@ -55,11 +73,13 @@ I'm a passionate Analytics professional specializing in building robust data pip
 
 ---
 
-### ⭐ Featured Projects
+### ⭐ Featured Work (Case Studies)
 
-* [Project One](https://github.com/Shubhamsraut/project-one) – one-liner description
-* [Project Two](https://github.com/Shubhamsraut/project-two) – one-liner description
-* [Project Three](https://github.com/Shubhamsraut/project-three) – one-liner description
+* **Cohort Retention Dashboard (Power BI/Tableau):** acquisition → activation → retention with filters by channel/segment.
+* **Sales Funnel Diagnostic (SQL + Looker):** conversion drop‑off, anomaly alerts, and revenue impact.
+* **A/B Test Readout Template (Python/Notebook):** design → checks → lift & power → final recommendations.
+
+> Replace these with links to your repos or BI public gallery.
 
 ---
 
@@ -73,7 +93,77 @@ I'm a passionate Analytics professional specializing in building robust data pip
 
 ### 🧩 Fun Extras
 
-* 🔭 Currently working on: Analytics pipelines
-* 🌱 Learning: Cloud-based data engineering tools
-* 💬 Ask me about: Data engineering, analytics, and cloud
+* 🔭 Currently working on: self‑serve dashboards & metric definitions
+* 🌱 Learning: causal inference & experimentation best practices
+* 💬 Ask me about: analytics strategy, A/B testing, dashboard UX
 * 📫 How to reach me: LinkedIn above
+
+---
+
+## .github/workflows/metrics.yml
+
+```yaml
+name: Generate metrics card
+
+on:
+  schedule:
+    - cron: "30 2 * * *" # daily 02:30 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate metrics
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: Shubhamsraut
+          filename: github-metrics.svg
+          config_timezone: Asia/Kolkata
+          template: classic
+          base: header, activity, repositories, metadata
+          plugin_languages: yes
+          plugin_languages_ignored: "Jupyter Notebook"
+          plugin_topics: yes
+          plugin_topics_limit: 12
+          plugin_followup: yes
+```
+
+## .github/workflows/activity.yml (optional)
+
+```yaml
+name: Update recent activity
+
+on:
+  schedule:
+    - cron: "45 2 * * *"   # daily
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Generate Activity
+        uses: Readme-Workflows/recent-activity@v2
+        with:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          COMMIT_MSG: "chore: update recent activity"
+```
+
+### One-time setup for metrics
+
+1. Create a **classic Personal Access Token** with `public_repo` (and optional `read:user`).
+2. In your repo **Shubhamsraut/Shubhamsraut** → **Settings → Secrets and variables → Actions** → **New repository secret**
+
+   * Name: `METRICS_TOKEN`
+   * Value: *your PAT*
+3. Commit the two workflow files above. The `github-metrics.svg` image will be created/updated automatically.
+4. Keep the `![Metrics](./github-metrics.svg)` line in your README—no manual edits needed.
