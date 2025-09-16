@@ -6,7 +6,16 @@
 
 ### 💡 About Me
 
-Business/Data Analyst who turns messy data into decisions. I design KPIs, build self‑serve dashboards, and drive insights with SQL, Python, and clear storytelling. I care about impact, not just charts.
+Business Analyst with **2+ years** of experience turning business questions into actionable decisions. I partner with product, sales, and ops to define KPIs, build self‑serve dashboards, and deliver clear narratives that move the needle.
+
+I’m also leaning hard into the **automation era** - using Python/SQL scripts, scheduled notebooks, and lightweight agents to remove repetitive work, trigger proactive alerts, and keep stakeholders in the loop.
+
+**Focus areas**
+
+* KPI design & metric governance
+* Experimentation (A/B test design, lift analysis, readouts)
+* Cohort/retention and funnel diagnostics
+* Automation: GitHub Actions, Apps Script/Power Automate, Zapier/n8n; exploring LLM‑powered agents for data QA & report drafting
 
 ---
 
