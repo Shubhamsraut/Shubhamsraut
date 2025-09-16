@@ -13,15 +13,17 @@ I'm a passionate Analytics professional specializing in building robust data pip
 ### 🧰 Services
 
 <p>
-  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?logo=apache-airflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?logo=googlecloud&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Databricks-EF3A24?logo=databricks&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Elasticsearch-005571?logo=elasticsearch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?logo=apachekafka&logoColor=white"/>
-</p>
+</p> 
+ # <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white"/>
+#  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white"/>
+ # <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white"/>
+ # <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?logo=apache-airflow&logoColor=white"/>
+ # <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?logo=googlecloud&logoColor=white"/>
+ # <img src="https://img.shields.io/badge/Databricks-EF3A24?logo=databricks&logoColor=white"/>
+ # <img src="https://img.shields.io/badge/Elasticsearch-005571?logo=elasticsearch&logoColor=white"/>
+#  <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?logo=apachekafka&logoColor=white"/>
+#</p>
 
 ---
 
