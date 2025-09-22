@@ -100,8 +100,6 @@ I’m also leaning hard into the **automation era**—using Python/SQL scripts, 
 * **Sales Funnel Diagnostic (SQL + Looker):** conversion drop‑off, anomaly alerts, and revenue impact.
 * **A/B Test Readout Template (Python/Notebook):** design → checks → lift & power → final recommendations.
 
-> Replace these with links to your repos or BI public gallery.
-
 ---
 
 ### 🏃 Recent GitHub Activity
