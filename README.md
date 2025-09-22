@@ -46,12 +46,12 @@ I’m also leaning hard into the **automation era** - using Python/SQL scripts, 
 
 ### 🧭 What I Do
 
-* 📊 KPI design & business performance tracking
-* 🧹 Data wrangling, modeling, and documentation
-* 📈 Dashboarding & self‑serve analytics (Power BI/Tableau/Looker)
-* 🧪 Experimentation: A/B test design, lift analysis, and readouts
-* 🔮 Forecasting & cohorts: time series, retention, segmentation
-* 🤝 Stakeholder storytelling: clear narratives, executive reports
+📊 KPI design & business performance tracking
+🧹 Data wrangling, modeling, and documentation
+📈 Dashboarding & self‑serve analytics (Power BI/Tableau/Looker)
+🧪 Experimentation: A/B test design, lift analysis, and readouts
+🔮 Forecasting & cohorts: time series, retention, segmentation
+🤝 Stakeholder storytelling: clear narratives, executive reports
 
 ---
 
