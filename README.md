@@ -121,11 +121,3 @@ I’m also leaning hard into the **automation era**—using Python/SQL scripts, 
 
 ---
 
-
-1. Create a **classic Personal Access Token**. Start with `public_repo`; if you enable `plugin_traffic`, use full `repo` scope.
-2. In your repo **Shubhamsraut/Shubhamsraut** → **Settings → Secrets and variables → Actions** → **New repository secret**
-
-   * Name: `METRICS_TOKEN`
-   * Value: *your PAT*
-3. Commit these workflow files and run **Generate metrics cards** once from the **Actions** tab.
-4. The three SVGs will appear at the repo root and render in the README automatically.
