@@ -8,7 +8,7 @@
 
 Business Analyst with **2+ years** of experience turning business questions into actionable decisions. I partner with product, sales, and ops to define KPIs, build self‑serve dashboards, and deliver clear narratives that move the needle.
 
-I’m also leaning hard into the **automation era**—using Python/SQL scripts, scheduled notebooks, and lightweight agents to remove repetitive work, trigger proactive alerts, and keep stakeholders in the loop.
+I’m also leaning hard into the **automation era** - using Python/SQL scripts, scheduled notebooks, and lightweight agents to remove repetitive work, trigger proactive alerts, and keep stakeholders in the loop.
 
 **Focus areas**
 
@@ -22,16 +22,15 @@ I’m also leaning hard into the **automation era**—using Python/SQL scripts, 
 ### 🧰 Analytics Toolkit
 
 <p>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?logo=Power%20BI&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Tableau-E97627?logo=Tableau&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Looker-4285F4?logo=looker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google%20Sheets-34A853?logo=google-sheets&logoColor=white"/>
-  <img src="https://img.shields.io/badge/BigQuery-4285F4?logo=google-bigquery&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Snowflake-29B5E8?logo=snowflake&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?logo=Power%20BI&logoColor=black"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?logo=Tableau&logoColor=white"/>
+<img src="https://img.shields.io/badge/Looker-4285F4?logo=looker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white"/>
+<img src="https://img.shields.io/badge/BigQuery-4285F4?logo=google-bigquery&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white"/>
+
 </p>
 
 ---
