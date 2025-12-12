@@ -1,12 +1,15 @@
+<!-- ===================== HERO ===================== -->
 <h1 align="center">Shubham Raut</h1>
+
 <p align="center">
   <strong>Business Analyst · Decision Analytics · KPI & Reporting Systems</strong><br/>
-  Analytics systems, not just charts
+  Turning data into trusted metrics and automated decisions
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Shubhamsraut&label=Profile%20Views&color=0e75b6"/>
   <img src="https://img.shields.io/github/followers/Shubhamsraut?label=Followers"/>
+  <img src="https://img.shields.io/github/stars/Shubhamsraut?label=Stars"/>
 </p>
 
 ---
@@ -32,7 +35,7 @@
 
 ### What I Work On
 - KPI definitions & metric consistency  
-- Business dashboards for leadership  
+- Executive dashboards for leadership  
 - Reporting automation & reliability  
 - Data quality & SLA monitoring  
 
@@ -82,13 +85,33 @@
 
 ---
 
-## 🧰 Analytics Stack
+## 🧰 Analytics Technology Stack
 
-Python · SQL · Power BI · Looker Studio · Tableau · Excel · MySQL · REST APIs
+### Languages
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white"/>
+</p>
+
+### Business Intelligence
+<p>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?logo=Power%20BI&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Looker%20Studio-4285F4?logo=looker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?logo=Tableau&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white"/>
+</p>
+
+### Data & Automation
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST%20API-000000?logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google%20Apps%20Script-4285F4?logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white"/>
+</p>
 
 ---
 
-## 📈 GitHub Analytics View
+## 📈 GitHub Analytics Dashboard
 
 <p align="center">
   <img height="160"
@@ -107,7 +130,7 @@ Python · SQL · Power BI · Looker Studio · Tableau · Excel · MySQL · REST 
 ## 🔗 Professional Presence
 
 <a href="https://www.linkedin.com/in/shubham-raut-analytics">
-  LinkedIn
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white"/>
 </a>
 
 ---
@@ -115,5 +138,5 @@ Python · SQL · Power BI · Looker Studio · Tableau · Excel · MySQL · REST 
 ## 🚀 Current Focus
 
 ✔ KPI reliability & metric trust  
-✔ Scalable reporting systems  
-✔ Analytics best practices  
+✔ Scalable reporting & automation  
+✔ Analytics best practices & BI excellence  
