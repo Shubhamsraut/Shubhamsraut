@@ -85,15 +85,6 @@
 
 ---
 
-## 🏆 Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Shubhamsraut&theme=flat&no-frame=true&column=7&margin-w=12"/>
-
-</div>
-
----
 
 ## 🐍 Contribution Graph
 
