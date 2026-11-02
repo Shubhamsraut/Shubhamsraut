@@ -1,119 +1,180 @@
+<!-- GitHub profile README for Shubhamsraut. -->
+<!-- Metrics and certifications are preserved from the supplied profile. -->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=200&section=header&text=Shubham%20Raut&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=Business%20Analyst%20%E2%80%82%7C%E2%80%82KPI%20Architect%20%E2%80%82%7C%E2%80%82Decision%20Systems&descSize=17&descAlignY=58&descColor=E2E8F0&animation=fadeIn"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0F172A,55:134E4A,100:14B8A6&amp;height=230&amp;section=header&amp;text=Shubham%20Raut&amp;fontSize=54&amp;fontColor=FFFFFF&amp;fontAlignY=36&amp;desc=BUSINESS%20ANALYST%20%20%7C%20%20KPI%20ARCHITECT&amp;descSize=16&amp;descAlignY=55&amp;animation=fadeIn" alt="Shubham Raut — Business Analyst and KPI Architect" />
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3500&pause=1200&color=6366F1&center=true&vCenter=true&multiline=true&width=680&height=70&lines=Transforming+Raw+Data+into+Trusted+Decisions;Building+Dashboards+That+Leaders+Actually+Use" alt="Typing SVG"/>
-</a>
+  <img width="600" src="https://readme-typing-svg.demolab.com?font=Inter&amp;weight=500&amp;size=21&amp;duration=3400&amp;pause=1600&amp;color=0D9488&amp;center=true&amp;vCenter=true&amp;width=600&amp;height=46&amp;lines=Turning+raw+data+into+trusted+decisions.;Building+dashboards+leaders+actually+use.;Making+complex+reporting+feel+simple." alt="Turning raw data into trusted decisions. Building dashboards leaders actually use. Making complex reporting feel simple." />
 
-<br/>
+  <p>
+    <strong>Business context. Reliable metrics. Clear decisions.</strong>
+  </p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shubham%20Raut-6366F1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubham-raut-analytics)
-[![Profile Views](https://komarev.com/ghpvc/?username=Shubhamsraut&style=for-the-badge&color=6366F1&label=Profile+Views)](https://github.com/Shubhamsraut)
+  <p>
+    <a href="https://www.linkedin.com/in/shubham-raut-analytics"><img src="https://img.shields.io/badge/LinkedIn-Let%27s%20connect-0D9488?style=for-the-badge&amp;labelColor=0F172A" alt="Connect with Shubham on LinkedIn" /></a>
+    <a href="https://github.com/Shubhamsraut?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Explore%20my%20work-0D9488?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;labelColor=0F172A" alt="Explore Shubham's GitHub repositories" /></a>
+  </p>
+
+  <p>
+    <a href="#about">About</a> &nbsp;·&nbsp;
+    <a href="#impact">Impact</a> &nbsp;·&nbsp;
+    <a href="#approach">Approach</a> &nbsp;·&nbsp;
+    <a href="#toolkit">Toolkit</a> &nbsp;·&nbsp;
+    <a href="#credentials">Credentials</a>
+  </p>
 
 </div>
 
----
+<br />
 
-## 📊 Impact at a Glance
+## About
+
+I turn business questions into clear KPIs, practical dashboards, and reliable reporting workflows. My work spans **campaign analytics, operations reporting, data quality, and automation**.
+
+I focus on the details that make analytics useful: consistent definitions, validated data, and insights people can act on.
+
+<br />
+
+## Impact
+
+<table width="100%">
+  <tr>
+    <td align="center" width="33%">
+      <br />
+      <h2>40% ↓</h2>
+      <strong>Less reporting effort</strong>
+      <p>Through reporting automation</p>
+    </td>
+    <td align="center" width="33%">
+      <br />
+      <h2>30+ hrs</h2>
+      <strong>Saved every month</strong>
+      <p>By simplifying recurring work</p>
+    </td>
+    <td align="center" width="33%">
+      <br />
+      <h2>200+</h2>
+      <strong>Locations covered</strong>
+      <p>Across analytics and reporting</p>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <strong>3+ years</strong> in analytics &nbsp;·&nbsp; <strong>10K+ records</strong> processed daily
+</p>
+
+<br />
+
+## Approach
+
+| Focus | What I build | Guiding principle |
+| :--- | :--- | :--- |
+| **KPI design** | Consistent metrics and clear definitions | Start with the business question. |
+| **Executive dashboards** | Focused views of performance and priorities | Make the next decision easier. |
+| **Reporting automation** | Repeatable reporting and ETL workflows | Automate recurring work. |
+| **Data quality & SLAs** | Validation checks and exception monitoring | Validate before visualising. |
+| **Campaign & operations** | Performance tracking across screens and locations | Connect results to action. |
+
+<br />
+
+## Toolkit
 
 <div align="center">
 
-| 🗓 Experience | ⚡ Reporting Effort | 🕐 Time Saved | 📍 Locations | 📁 Daily Records |
-|:---:|:---:|:---:|:---:|:---:|
-| **3+ Years** | **↓ 40%** | **30+ hrs/mo** | **200+ Sites** | **10K+ Rows** |
+  <p><strong>LANGUAGES & QUERY</strong></p>
+  <p>
+    <img src="https://img.shields.io/badge/Python-0F172A?style=for-the-badge&amp;logo=python&amp;logoColor=2DD4BF" alt="Python" />
+    <img src="https://img.shields.io/badge/SQL-0F172A?style=for-the-badge&amp;logo=mysql&amp;logoColor=2DD4BF" alt="SQL" />
+  </p>
+
+  <p><strong>BUSINESS INTELLIGENCE</strong></p>
+  <p>
+    <img src="https://img.shields.io/badge/Power%20BI-0F172A?style=for-the-badge&amp;logoColor=2DD4BF" alt="Power BI" />
+    <img src="https://img.shields.io/badge/Tableau-0F172A?style=for-the-badge&amp;logoColor=2DD4BF" alt="Tableau" />
+    <img src="https://img.shields.io/badge/Looker%20Studio-0F172A?style=for-the-badge&amp;logo=looker&amp;logoColor=2DD4BF" alt="Looker Studio" />
+  </p>
+
+  <p><strong>DATA & AUTOMATION</strong></p>
+  <p>
+    <img src="https://img.shields.io/badge/Excel%20%2F%20Power%20Query-0F172A?style=for-the-badge" alt="Excel and Power Query" />
+    <img src="https://img.shields.io/badge/ETL%20Pipelines-0F172A?style=for-the-badge" alt="ETL Pipelines" />
+    <img src="https://img.shields.io/badge/Apps%20Script-0F172A?style=for-the-badge&amp;logo=googleappsscript&amp;logoColor=2DD4BF" alt="Google Apps Script" />
+  </p>
+  <p>
+    <img src="https://img.shields.io/badge/REST%20APIs-0F172A?style=for-the-badge&amp;logo=postman&amp;logoColor=2DD4BF" alt="REST APIs" />
+    <img src="https://img.shields.io/badge/Git-0F172A?style=for-the-badge&amp;logo=git&amp;logoColor=2DD4BF" alt="Git" />
+  </p>
 
 </div>
 
----
+<br />
 
-## 🧭 How I Work
+## Credentials
 
 <div align="center">
 
-| 🔍 What I Solve | ⚙️ How I Think |
-|:---|:---|
-| KPI Design & Metric Governance | `Business Question → Metric → Visual` |
-| Executive Dashboard Development | `Automate Anything That Runs Twice` |
-| Reporting Automation & ETL Pipelines | `Validate Before You Visualize` |
-| SLA Monitoring & Data Quality | `Trust Is the Ultimate KPI` |
-| Campaign & Operations Analytics | `Simplify Until It's Obvious` |
+  <p>
+    <img src="https://img.shields.io/badge/IBM-Data%20Analyst%20Professional-0D9488?style=flat-square&amp;labelColor=0F172A" alt="IBM Data Analyst Professional" />
+    <img src="https://img.shields.io/badge/IBM-Data%20Science-0D9488?style=flat-square&amp;labelColor=0F172A" alt="IBM Data Science" />
+    <img src="https://img.shields.io/badge/IBM-Machine%20Learning-0D9488?style=flat-square&amp;labelColor=0F172A" alt="IBM Machine Learning" />
+  </p>
 
 </div>
 
----
+<br />
 
-## 🛠️ Technology Stack
+## Beyond the dashboards
 
-<div align="center">
+<details>
+  <summary><strong>GitHub contribution streak</strong></summary>
 
-**Languages & Query**
+  <br />
 
-![Python](https://img.shields.io/badge/Python-6366F1?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-0EA5E9?style=for-the-badge&logo=mysql&logoColor=white)
+  <div align="center">
+    <a href="https://github.com/Shubhamsraut">
+      <img width="460" src="https://streak-stats.demolab.com?user=Shubhamsraut&amp;hide_border=true&amp;border_radius=16&amp;background=0F172A&amp;stroke=1E293B&amp;ring=2DD4BF&amp;fire=2DD4BF&amp;currStreakNum=F8FAFC&amp;sideNums=F8FAFC&amp;currStreakLabel=2DD4BF&amp;sideLabels=CBD5E1&amp;dates=94A3B8" alt="Shubham's GitHub contribution streak" />
+    </a>
+    <p><a href="https://github.com/Shubhamsraut?tab=overview">View my GitHub activity →</a></p>
+  </div>
 
-**Business Intelligence**
+</details>
 
-![Power BI](https://img.shields.io/badge/Power%20BI-F59E0B?style=for-the-badge&logo=powerbi&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-0EA5E9?style=for-the-badge&logo=tableau&logoColor=white)
-![Looker Studio](https://img.shields.io/badge/Looker%20Studio-6366F1?style=for-the-badge&logo=looker&logoColor=white)
+<br />
 
-**Data & Automation**
+<!-- Requires the existing snake-generation workflow to publish these SVGs to the output branch. -->
+<details>
+  <summary><strong>A little animation, powered by contributions</strong></summary>
 
-![Excel](https://img.shields.io/badge/Excel%20%2F%20Power%20Query-10B981?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![ETL](https://img.shields.io/badge/ETL%20Pipelines-F59E0B?style=for-the-badge&logo=apachespark&logoColor=white)
-![Google Apps Script](https://img.shields.io/badge/Apps%20Script-0EA5E9?style=for-the-badge&logo=google&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-6366F1?style=for-the-badge&logo=postman&logoColor=white)
-![Git](https://img.shields.io/badge/Git-10B981?style=for-the-badge&logo=git&logoColor=white)
+  <br />
 
-</div>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shubhamsraut/Shubhamsraut/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shubhamsraut/Shubhamsraut/output/github-contribution-grid-snake.svg" />
+    <img width="100%" src="https://raw.githubusercontent.com/Shubhamsraut/Shubhamsraut/output/github-contribution-grid-snake.svg" alt="Animated snake tracing Shubham's GitHub contribution graph" />
+  </picture>
 
----
+</details>
 
-## 📈 GitHub Analytics
-
-<div align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Shubhamsraut&show_icons=true&theme=tokyonight&hide_border=true&title_color=6366F1&icon_color=10B981&text_color=334155&bg_color=F8FAFC"/>
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=Shubhamsraut&theme=tokyonight&hide_border=true&stroke=6366F1&ring=10B981&fire=F59E0B&currStreakLabel=6366F1"/>
-
-<br/>
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubhamsraut&layout=compact&theme=tokyonight&hide_border=true&title_color=6366F1&text_color=334155&bg_color=F8FAFC"/>
-
-</div>
-
----
-
-
-## 🐍 Contribution Graph
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shubhamsraut/Shubhamsraut/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shubhamsraut/Shubhamsraut/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Shubhamsraut/Shubhamsraut/output/github-contribution-grid-snake.svg" />
-</picture>
-
-
-## 📜 Certifications
-
-<div align="center">
-
-![IBM Data Analyst](https://img.shields.io/badge/IBM-Data%20Analyst%20Professional-6366F1?style=for-the-badge&logo=ibm&logoColor=white)
-![IBM Data Science](https://img.shields.io/badge/IBM-Data%20Science-0EA5E9?style=for-the-badge&logo=ibm&logoColor=white)
-![IBM Machine Learning](https://img.shields.io/badge/IBM-Machine%20Learning-10B981?style=for-the-badge&logo=ibm&logoColor=white)
-
-</div>
+<br />
 
 ---
 
 <div align="center">
 
-> *"The best dashboard is the one nobody notices — it just makes the right decision obvious."*
+  <br />
 
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-6366F1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubham-raut-analytics)
-[![Email](https://img.shields.io/badge/Send%20an%20Email-0EA5E9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+  <h3>Good analytics makes the next step clear.</h3>
+  <p>Interested in dashboards, reporting automation, or better business metrics?</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=100&section=footer"/>
+  <a href="https://www.linkedin.com/in/shubham-raut-analytics"><img src="https://img.shields.io/badge/Let%27s%20talk-Connect%20on%20LinkedIn-0D9488?style=for-the-badge&amp;labelColor=0F172A" alt="Connect with Shubham on LinkedIn" /></a>
+
+  <br />
+  <br />
+
+  <img src="https://komarev.com/ghpvc/?username=Shubhamsraut&amp;style=flat-square&amp;color=0D9488&amp;label=Profile+views" alt="Profile view counter" />
+
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0F172A,55:134E4A,100:14B8A6&amp;height=100&amp;section=footer" alt="Decorative navy and teal footer" />
 
 </div>
